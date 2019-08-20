@@ -32,12 +32,16 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 DOM is the Document Object Model, which is an object representation of the html elements of a webpage. 
+
 2. What is an event?
 An event is when something happens when a user interacts with a webpage.
+
 3. What is an event listener?
 An event listener is a function that performs an action when a specified event happens.
+
 4. Why would we convert a NodeList into an Array?
 We would convert a NodeList into an Array to be able to use methods.
+
 5. What is a component?
 A component is a reusable piece of code.
 
@@ -62,10 +66,10 @@ Your finished project must include all of the following requirements:
 
 Your stretch challenge is to write the functionality of a `Carousel` component. You have the HTML and CSS already in place, simply un-comment the HTML in the `index.html` file. This is an advanced challenge, so you are not expected to be able to complete it. If you begin and don't finish, you should still submit with what you have. You may reference the `Tabs.js` file for assistance.
 
-* [ ] Complete the carousel functionality in `Carousel.js`
+* [x] Complete the carousel functionality in `Carousel.js`
 
-* [ ] If you complete the Carousel, add functionality so that the carousel slides when the buttons are pressed instead of just appearing.
+* [x] If you complete the Carousel, add functionality so that the carousel slides when the buttons are pressed instead of just appearing.
 
-* [ ] Create an 'infinite loop' carousel. In which as long as you click on an arrow, the array of images will loop over itself.
+* [x] Create an 'infinite loop' carousel. In which as long as you click on an arrow, the array of images will loop over itself.
 
 * [ ] If you have finished the above, play around with the styling on all the components, and understand how each is built.
